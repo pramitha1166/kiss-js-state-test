@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30;
+    margin-top: 100px;
+}
+
+.box {
+    background-color: grey;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.text {
+    font-size: 30px;
+    color: white;
+}
+
+.action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container {
+    padding: 10px;
+}
+
+.btn-style {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
